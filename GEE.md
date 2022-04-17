@@ -1,5 +1,5 @@
 
-Google Earth Engine is a **cloud-based platform** for earth science and analysis. It helps with managing a lot of geospatial datasets.
+Google Earth Engine is a **cloud-based platform** for earth science and analysis. It helps with managing a lot of geospatial datasets
 
 What can GEE do? 
 Some of the functionalities that GEE is capable of are the followings:
