@@ -3,7 +3,7 @@
 
 ### What is Degree Days?
 
-Degree Days (DD) is a mathematical model that uses temperature accumulation to estimate biological growth rates. It predicts the speed of growth and number of generations of an invasive pest occurring in a period of time. The accuracy of the model relies on the fact that insects have a predictable development pattern based on heat accumulation. Insects are exothermic (“cold-blooded”) and their body temperature and growth are, therefore, affected by their surrounding temperature. Amazing, isn't it?
+Degree Days (DD) is a mathematical model that uses temperature accumulation to estimate biological growth rates. It predicts the speed of growth and number of generations of an invasive pest occurring in a period of time. The accuracy of the model relies on the fact that insects have a predictable development pattern based on heat accumulation. Insects are exothermic (“cold-blooded”) and their body temperature and growth are, therefore, affected by their surrounding temperature. 
 
 ### Application:
 
