@@ -1,6 +1,6 @@
 ---
-title: "Watershed_Delineation"
-tags: ""
+Watershed_Delineation
+
 ---
 
 So far I have managed to display the basins over Telangana and clipped it to my AOI (which corresponds to one of the historical maps that I have already worked on), everything done in GEE, using the code shown below. However, once I export it and import into QGIS I cannot see anything.
@@ -49,5 +49,7 @@ Export.table.toDrive({
 `.filterBounds(AOI)` is to "clip" or "reduce" the Watershed feature to my AOI.
 
 And I got the following:
-![image.png](https://boostnote.io/api/teams/b_PuTqecE/files/0686c81455c0f4a1e2c5758b8801293c48497468024060de913a0f1dafb6cea3-image.png)
-Here is the [link](https://code.earthengine.google.com/) to the GEE code editor.
+
+![image](https://user-images.githubusercontent.com/103893782/164973807-346c7b2c-42e4-4bac-ba24-dbbd7d25852c.png)
+
+Here is the [link](https://code.earthengine.google.com/?scriptPath=users%2Fmarsuarezmoreno%2FSAR%3AWatershed_clipped) to the GEE code editor.
