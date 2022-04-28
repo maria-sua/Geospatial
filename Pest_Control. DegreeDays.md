@@ -12,6 +12,10 @@ Given that insect activity varies from year to year depending on climate fluctua
 ### Data analysis:
 
 The goal is to predict the dates when life stages (Hatching and Lifecycle) will occurr. For this exercise, I implemented a DD model for the Fall Army Worm (FAW). To calculate the DD I took into account upper and lower temperature limits required for FAW's development.
+Each day the accumulated degree days can be calculated as:
+- If T < Tmin:        degree days = 0
+- If Tmin < T < Tmax: degree days = T – Tmin
+- If T > Tmax:	      degree days = Tmax – Tmin
 
 ### Parameters needed
 
