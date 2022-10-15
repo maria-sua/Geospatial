@@ -1,0 +1,18 @@
+
+var sentinel_2 = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED")
+    .filterDate('2019-01-01', '2020-01-10')
+    .filterBounds(Trident_Area)
+
+var ndvi = sentinel_2.map(function(image) {
+  var result = image.normalizedDifference(["B8", "B4"]).rename("ndvi")
+  return image.addBands(result);
+})
+
+Map.addLayer(ndvi.select('ndvi'))
+
+//var maxNDVI = ndvi.max();
+//Map.addLayer(maxNDVI, {bands: "ndvi", min:0, max:1}, "NDVI")
+//Map.centerObject(Trident_Area, 11)
+
+// A chart of NDVI over time.
+//print(ui.Chart.image.doySeries(ndvi.select('ndvi'), Trident_Area, ee.Reducer.mean(), 30))
