@@ -1047,5 +1047,5 @@ Export.image.toDrive({
   maxPixels: 6000000000
 }); 
 ```
+![map GEE](https://user-images.githubusercontent.com/103893782/196053505-7c680132-21a6-42bc-bdc3-467397afe5d4.jpeg)
 
-![sup_RandomForest](https://user-images.githubusercontent.com/103893782/196035412-6004fc2a-8d57-41df-87d9-02e678f53130.JPG)
