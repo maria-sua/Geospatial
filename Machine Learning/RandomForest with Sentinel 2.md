@@ -5,7 +5,7 @@
 // import the satellite data from the European Space Agency
 var S2 = ee.ImageCollection("COPERNICUS/S2");
 
-//filter for Dubai
+//filter for AOI
 S2 = S2.filterBounds(AOI);
 print(S2);
 
