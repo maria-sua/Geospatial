@@ -1,6 +1,6 @@
 
 
-### Analysing vegetation growth in target area 2019 - 2022
+### Analysing vegetation growth in target area 2019 - 2020
 
 **Analysis in Google Earth Engine**
 
