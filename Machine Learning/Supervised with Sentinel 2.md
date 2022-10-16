@@ -1,7 +1,7 @@
 
 
 
-'''
+```
 // import the satellite data from the European Space Agency
 var S2 = ee.ImageCollection("COPERNICUS/S2");
 
@@ -49,6 +49,6 @@ Export.image.toDrive({
   region:AOI,
   maxPixels: 6000000000
 }); 
-''' 
+```
 
 ![sup_RandomForest](https://user-images.githubusercontent.com/103893782/196035412-6004fc2a-8d57-41df-87d9-02e678f53130.JPG)
