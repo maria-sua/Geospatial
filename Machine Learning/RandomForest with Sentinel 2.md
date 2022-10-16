@@ -1,5 +1,5 @@
 
-
+### Analysis conducted in Google Earth Engine using Random Forest Algorithm
 
 ```
 ///////////////Data Imported ////////////////////
