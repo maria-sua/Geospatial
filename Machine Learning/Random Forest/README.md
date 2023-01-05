@@ -13,7 +13,7 @@ Using the supervised classification method, an image is classified using spectra
 Random forests is a classification and regression algorithm originally designed for the machine learning community. 
 This algorithm is increasingly being applied to satellite and aerial image classification. Random forests is an ensemble model which means that it uses the results from many different models to calculate a response. In most cases, the result from an ensemble model will be better than the result from any one of the individual models.
 
-The purpose of this project was, therefore, to conduct a LULC Classification using a supervised training through the Random Forest model. 
+The purpose of this project was, therefore, to conduct a LULC Classification through a supervised training using the Random Forest model. 
 
 ## Results
 The **overall accuraccy** (metric for evaluating classification models) result obtained was 0.9230769230769231, this is, 92 correct predictions out of 100 total training samples.
