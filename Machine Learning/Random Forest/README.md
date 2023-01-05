@@ -1,5 +1,5 @@
 
-# Supervised classification of land cover classess in Pakistan using Random Forest Algorithm
+# Supervised classification of land cover classes in Pakistan using Random Forest Algorithm
 Land cover data shows the surface cover on the ground which can be vegetation, built-up area, bare land, wetlands, agriculture, and other land and water types of the cover of a region. Land use and land cover (LULC) classification provides proxies of the natural and social processes related to urban development, providing stakeholders with crucial information. Remotely sensed images are common to define land use through image classification.
 The image classification process involves conversion of multi-band raster imagery into a single-band raster with a number of categorical classes that relate to different types of land cover.
 
