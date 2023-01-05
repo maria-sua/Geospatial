@@ -20,5 +20,7 @@ The **overall accuraccy** (metric for evaluating classification models) result o
 
 ![LULC](https://user-images.githubusercontent.com/103893782/210900211-a6709601-1c56-49bf-bc04-410a919089ba.jpeg)
 
+Cartographic processess were conducted using QGIS software and exported output LULC map from Google Earth Engine as a TIF file.
+
 To explore the analysis in detail and accuraccy assessment results you can also access the code implemented in Google Earth Engine by clicking the following link:
 https://code.earthengine.google.com/a57f1f3cf1b9295c573f097f33e20794
