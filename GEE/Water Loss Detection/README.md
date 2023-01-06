@@ -13,3 +13,7 @@ The goal of this project is to conduct change detection analysis through supervi
 - **Satellite Imagery**: Given the purpose of collecting and processing imagery both in 2015 and 2016, this project has used satellite data from **Landsat 8** which started to capture data since 2013. As shown in the Landsat images, compared to February 2015, the Bugga Reservoir experimented significant loss of water in February 2016.
 
 ## Results
+
+
+To explore the analysis and results in detail you can also access the code implemented in Google Earth Engine by clicking the following link:
+https://code.earthengine.google.com/5307c7ee38f19c45bd482db6e7aebe67
