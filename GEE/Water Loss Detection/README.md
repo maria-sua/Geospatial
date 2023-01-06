@@ -14,6 +14,9 @@ The goal of this project is to conduct change detection analysis through supervi
 
 ## Results
 
+![Output-1](https://user-images.githubusercontent.com/103893782/210978462-9a65631e-f21d-4f43-a1c5-037476e7f0d2.JPG)
+
+![Output-4](https://user-images.githubusercontent.com/103893782/210985691-e802d0ab-4d48-4d63-b04a-502ccbe2ba85.png)
 
 To explore the analysis and results in detail you can also access the code implemented in Google Earth Engine by clicking the following link:
 https://code.earthengine.google.com/5307c7ee38f19c45bd482db6e7aebe67
